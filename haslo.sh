@@ -1,3 +1,5 @@
+#!/bin/bash
+
 $ echo -n "Podaj haslo: "; read -s haslo; echo;
 echo "Podane haslo: $haslo"
 Podaj haslo:
